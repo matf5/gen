@@ -1,19 +1,3 @@
-const DOMAIN_MAP = {
-  '0APP': {
-    st1: 'http://m-zl-st1.cfcmu.cn/vmuapp/#',
-    st2: 'http://m-zl-st2.cfcmu.cn/vmuapp/#',
-    uat: 'http://m-zl-uat.cfcmu.cn/vmuapp/#',
-    prod: 'https://m-zl.mucfc.com/vmuapp/#'
-  }
-};
-const URL_MAP = {
-  '0APP': {
-    XJGJJ01: '/provident-apply/intro?sceneType=XJGJJ01',
-    XJYZ001: '/apply-owner/intro?sceneType=XJYZ001',
-    XJCZ001: '/apply-car/intro?sceneType=XJCZ001',
-    XJBL001: '/apply?sceneType=XJBL001'
-  }
-};
 const OPTION_PRODUCT = [
   {
     value: 'XJGJJ01',

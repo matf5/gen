@@ -41,9 +41,6 @@
 </template>
 <script>
 
-// const URL_MAP = {
-//   XJGJJ01: 'https://m-zl.mucfc.com/provident-apply/intro?sceneType=XJGJJ01',
-// }
 import { URL_MAP, DOMAIN_MAP, OPTION_ENV, OPTION_PRODUCT } from './constants';
 
 export default {
